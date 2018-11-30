@@ -2,7 +2,7 @@
 
 
 
-BookCase is made with Express, React, Node.js, Sequelize.
+BookAPP is made with Express.js, React, Node.js, Sequelize.
 
 book app should consists of the following features:
 
