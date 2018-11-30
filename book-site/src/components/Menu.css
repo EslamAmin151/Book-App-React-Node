@@ -1,0 +1,17 @@
+.Menu {
+  background-color: orange;
+  width: 100%;
+  height: 100px;
+  margin: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+.Menu a {
+  text-decoration: none;
+  color: white;
+}
+
+.Menu li {
+  list-style: none;
+}
